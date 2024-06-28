@@ -1,2 +1,2 @@
-# DesafioJavaBancoDigital
-Desafio DIO
+# DesafioJava_BancoDigitalGFT
+Desafio criando um banco digital com Java
